@@ -2,16 +2,16 @@
 
 npm install --save @ng-bootstrap/ng-bootstrap
 
-import ng bootstrap module
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap'
+import ng bootstrap module<br/>
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap'<br/>
 
-Also, add it to @NgModule imports array.
+Also, add it to @NgModule imports array.<br/>
 
-imports: [
-  BrowserModule,
-  AppRoutingModule,
-  NgbModule
-],
+imports: [<br/>
+  BrowserModule,<br/>
+  AppRoutingModule,<br/>
+  NgbModule<br/>
+],<br/>
 
 
 Add this stylesheet reference to the Bootstrap stylesheet in the index.html before the closing of head tag.
